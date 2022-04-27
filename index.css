@@ -1,0 +1,1673 @@
+.navbar{
+    display: inline-block;
+}
+
+.navbar li{
+    display: inline-block;
+}
+
+.navbar li a img{
+    display: inline-block;
+    position:absolute;
+    height: 39px;
+    width: 86px;
+    left: 30px;
+    top: 20px;
+}
+
+.ukraine{
+    color: white;
+    display: inline-block;
+    background-color:rgb(48, 48, 112) ;
+    height: 78px;
+    width: 1024px;
+    position: absolute;
+    left: 0px;
+top: 87px;
+
+}
+
+
+
+.ukr img{
+    display: inline-block;
+    height: 23px;
+    width: 37px;
+    position: absolute;
+    top: 117px;
+    left: 128px;
+}
+
+.para{
+    display: inline-block;
+    color: white;
+    position: absolute;
+    top: 115px;
+    left: 176px;
+    font-size: 22px;
+}
+.ut{
+    visibility: hidden;
+    display: inline-block;
+    color: white;
+    position: absolute;
+    top: 115px;
+    left: 176px;
+    font-size: 22px;
+}
+.h li a{
+    display: inline-block;
+    color:white;
+}
+
+.h li{
+    display: inline-block;
+    font-size: 22px;
+    position: absolute;
+    top: 112px;
+    left: 764px;
+}
+
+.firstback img{
+    display: inline-block;
+    position: absolute;
+    top: 163px;
+    left: 0px;
+    height:517px ;
+    width: 1024px;
+}
+
+.p{
+    font-family: 'Work Sans', sans-serif;
+    display: inline-block;
+    position: absolute;
+    top: 218px;
+    left: 191px;
+    font-size: 90px;
+}
+
+.o{
+    visibility: hidden;
+    font-family: 'Work Sans', sans-serif;
+    display: inline-block;
+    position: absolute;
+    top: 219px;
+    left: 291px;
+    font-size: 90px;
+}
+
+.hb{
+    visibility: hidden;
+    font-family: 'Work Sans', sans-serif;
+    display: inline-block;
+    position: absolute;
+    top: 402px;
+    left: 226px;
+    font-size: 90px;
+}
+
+.hp{
+    visibility: hidden;
+    font-family: 'Work Sans', sans-serif;
+    display: inline-block;
+    position: absolute;
+    top: 404px;
+    left: 154px;
+    font-size: 90px;
+}
+
+.jh{
+    visibility: hidden;
+    font-family: 'Work Sans', sans-serif;
+    display: inline-block;
+    position: absolute;
+    top: 518px;
+    left: 443px;
+    font-size: 90px;
+}
+
+.p1{
+    margin: 4px;
+    display: inline-block;
+    position: absolute;
+    top: 449px;
+    left: 242px;
+    font-size: 22px;
+}
+
+.pg{
+    visibility: hidden;
+    margin: 4px;
+    display: inline-block;
+    position: absolute;
+    top: 672px;
+    left: 291px;
+    font-size: 28px;
+}
+.kl{
+    visibility: hidden;
+    display: inline-block;
+    position: absolute;
+    top: 717px;
+    left:330px;
+    font-size: 28px;
+}
+
+.H{
+    visibility: hidden;
+    display: inline-block;
+    position: absolute;
+    top: 754px;
+    left:330px;
+    font-size: 28px;
+}
+.Y{
+    visibility: hidden;
+    margin: 4px;
+    display: inline-block;
+    position: absolute;
+    top: 786px;
+    left: 291px;
+    font-size: 28px;
+}
+.btn button{
+    display: inline-block;
+    font-size: 20px;
+    height: 60px;
+    width: 198px;
+    border-color:rgb(60, 128, 255) ;
+    border-radius: 51px;
+    color: white;
+    top: 560px;
+    left: 446px;
+    position: absolute;
+    background-color: rgb(60, 128, 255);
+}
+
+.p2{
+    position: absolute;
+    display: inline-block;
+    top: 644px;
+    left: 438px;
+   
+}
+
+.secback img{
+    position: absolute;
+    display: inline-block;
+    top: 670px;
+    left: -35px;
+    width: 1053px;
+    height: 654px;
+}
+
+.fz img{
+    visibility: hidden;
+    position: absolute;
+    display: inline-block;
+    top: 1095px;
+    left: 42px;
+    width: 916px;
+    height: 928px;
+}
+
+.box{
+    background-color: rgb(10, 13, 163);
+    display: inline-block;
+    position: absolute;
+    height: 357px;
+    width: 1023px;
+    top: 1310px;
+    left: 0px;
+}
+.box1 h2{
+    font-family: 'Work Sans', sans-serif;
+    position: absolute;
+    display: inline-block;
+    top: 1400px;
+    left: 10px;
+    color: white;
+    font-size: 45px;
+}
+
+.boxu h2{
+    visibility: hidden;
+    font-family: 'Work Sans', sans-serif;
+    position: absolute;
+    display: inline-block;
+    top: 2157px;
+    left: 47px;
+    color: white;
+    font-size: 62px;
+}
+
+.boxy h2{
+    visibility: hidden;
+    font-family: 'Work Sans', sans-serif;
+    position: absolute;
+    display: inline-block;
+    top: 2239px;
+    left: 47px;
+    color: white;
+    font-size: 62px;
+}
+
+.boxi h2{
+    visibility: hidden;
+    font-family: 'Work Sans', sans-serif;
+    position: absolute;
+    display: inline-block;
+    top: 2321px;
+    left: 47px;
+    color: white;
+    font-size: 62px;
+}
+
+.p3{
+    position: absolute;
+    display: inline-block;
+    top: 1448px;
+    left: 562px;
+    font-size: 22px;
+    color: white;
+}
+
+.p7{
+
+    visibility: hidden;
+    position: absolute;
+    display: inline-block;
+    top: 2556px;
+    left: 47px;
+    font-size: 45px;
+    color: white;
+}
+
+
+.l1 li{
+    position: absolute;
+    display: inline-block;
+    top: 1600px;
+    left: 584px;
+    color: white;
+}
+.l1 li a{
+    color: white;
+    font-size: 29px;
+}
+
+.ht{
+    background-color: rgb(45, 78, 45);
+    position: absolute;
+    display: inline-block;
+    top: 1667px;
+    left: 0px;
+    height: 1100px;
+    width: 580px;
+}
+
+.box2 h2{
+    font-family: 'Work Sans', sans-serif;
+    position: absolute;
+    display: inline-block;
+    top: 1782px;
+    left: 20px;
+    color: white;
+    font-size:45px ;
+
+}
+
+.hu{
+    position: absolute;
+    display: inline-block;
+    top: 1929px;
+    left: 20px;
+    color: white;
+    font-size: 22px;
+}
+
+.jdf{
+    visibility: hidden;
+    position: absolute;
+    display: inline-block;
+    top: 4368px;
+    left: 83px;
+    color: white;
+    font-size: 22px;  
+}
+
+.topnav {
+    size: 30px;
+    position: absolute;
+    top: -30px;
+    left: 900px;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+  }
+  
+  .topnav #myLinks {
+    display: none;
+  }
+  
+
+  .topnav a {
+    color: rgb(0, 0, 0);
+    padding: 23px 14px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+  }
+  
+ 
+  .topnav a.icon {
+    background: rgb(255, 255, 255);
+    display: block;
+    position: absolute;
+    right: 10px;
+    left: 3px;
+    top: -22px;
+    font-size: 40px;
+  }
+  
+
+  
+.hw h2{
+    position: absolute;
+    display: inline-block;
+    top: 2104px;
+    left: 20px;
+    color: white;
+    font-size: 23px;
+}
+    
+.hk h2{
+    visibility: hidden;
+    position: absolute;
+    display: inline-block;
+    top: 4541px;
+    
+    left: 87px;
+    color: white;
+    font-size: 23px;
+}
+
+.he{
+    font-family: "Lato script=latin rev=1";
+    position: absolute;
+    display: inline-block;
+    top: 2170px;
+    left: 22px;
+    color: white;
+    font-size: 18px;
+}
+
+.uy{
+    visibility: hidden;
+    font-family: "Lato script=latin rev=1";
+    position: absolute;
+    display: inline-block;
+    top: 4752px;
+    left: 87px;
+    color: white;
+    font-size: 33px;
+}
+
+
+.hg h2{
+    position: absolute;
+    display: inline-block;
+    color: white;
+    font-size: 23px;
+    top: 2103px;
+    left: 270px;
+
+}               
+
+.hi{
+position: absolute;
+display: inline-block;
+color: white;
+top: 2171px;
+left:273px;
+font-size: 18px;
+font-family: "Lato script=latin rev=1";
+}
+
+.kj h2{
+    position: absolute;
+    display: inline-block;
+    color: white;
+top: 2366px;
+left:20px;
+}
+
+
+.gj{
+    font-size: 18px;
+font-family: "Lato script=latin rev=1";
+    position: absolute;
+    display: inline-block;
+    color: white;
+top: 2452px;
+left: 20px;
+}
+
+.ko h2{
+    position: absolute;
+    display: inline-block;
+    color: white;
+top: 2367px;
+left: 270px;
+}
+
+.jf{
+    font-size: 18px;
+font-family: "Lato script=latin rev=1";
+    position: absolute;
+    display: inline-block;
+    color: white;
+top: 2454px;
+left: 300px;
+}
+
+.bt li a{
+    background-color: rgb(45, 78, 45);
+    position: absolute;
+    display: inline-block;
+    color: white;
+    top: 2657px;
+    left: 20px;
+    font-size: 36px;
+}
+
+.imgf img{
+    position: absolute;
+    display: inline-block;
+    top: 1667px;
+    left: 580px;
+    height: 297px;
+    width: 435px;
+}
+
+.imgg img{
+    position: absolute;
+    display: inline-block;
+    top: 1965px;
+    left: 579px;
+    height: 800px;
+    width: 442px;
+}
+
+@media only screen and (max-width: 902px) {
+
+
+
+    .para{
+       visibility: hidden;
+    }
+.h li{
+    visibility: hidden;
+}
+
+.firstback img{
+    width: 1022px;
+    height: 3941px;
+}
+.ut{
+    visibility: visible;
+}
+.p{
+    visibility: hidden;
+}
+
+.o{
+    max-width: 100%;
+    visibility:visible;
+}
+
+.hb{
+    visibility: visible;
+}
+
+.jh{
+    visibility: visible;
+}
+
+.p1{
+    visibility: hidden;
+}
+
+.p2{
+    visibility: hidden;
+}
+
+.pg{
+    visibility: visible;
+}
+
+.kl{
+    visibility: visible;
+}
+.H{
+    visibility: visible;
+}
+
+.Y{
+    visibility: visible;
+}
+
+.btn button{
+    position: absolute;
+    top: 921px;
+    left: 406px;
+}
+
+.box{
+    width: 1013px;
+    height: 850px;
+    top: 2105px;
+    left: 0px;
+position: absolute;
+}
+.box1 h2{
+    visibility: hidden;
+}
+
+.p3{
+    visibility: hidden;
+}
+
+.l1 li a{
+    visibility: hidden;
+}
+
+.bt li a{
+    visibility: hidden;
+}
+
+
+
+.box2 h2{
+    visibility: visible;
+    position: absolute;
+    top: 4200px;
+    left: 83px;
+    font-size: 45px;
+}
+
+.hu{
+    visibility: hidden;
+}
+
+.hw h2{
+    visibility: hidden;
+}
+
+.he{
+visibility: hidden;
+}
+
+.hg h2{
+    visibility: hidden;
+}
+
+.hi{
+    visibility: hidden;
+}
+
+.kj h2{
+    visibility: hidden;
+}
+
+.gj{
+    visibility: hidden;
+}
+
+
+.ko h2{
+    visibility: hidden;
+}
+
+.jf{
+    visibility: hidden;
+}
+
+.imgf img{
+    visibility: hidden;
+}
+
+.imgg img{
+    height: 1011px;
+    width: 975px;
+    position: absolute;
+    top: 3054px;
+    left: 35px;
+}
+
+.ht{
+    visibility: visible;
+    top: 4104px;
+    left: 0px;
+    position: absolute;
+    height: 1000px;
+    width: 1023px;
+}
+
+.fz img{
+    visibility: visible;
+}
+
+.boxu h2{
+    visibility: visible;
+}
+
+.boxy h2{
+    visibility: visible;
+}
+
+.boxi h2{
+    visibility: visible;
+}
+
+.p7{
+    visibility: visible;
+}
+
+.jdf{
+    visibility: visible;
+    font-size: 35px;
+}
+
+.hk h2{
+    visibility: visible;
+    font-size: 49px;
+}
+
+.uy{
+    visibility: visible;
+}
+
+
+.secback img{
+    visibility: hidden;
+}
+
+  }
+
+
+
+
+
+
+
+
+
+  @media only screen and (max-width: 776px) {
+    
+    .hb{
+        visibility: hidden;
+    }
+
+    .hp{
+        visibility: visible;
+    }
+
+  }
+
+
+
+  @media only screen and (max-width: 707px){
+
+    .o{
+visibility: visible;
+        position: absolute;
+        top: 243px;
+        left: 232px;
+       
+    }
+      
+.hp{
+    visibility: visible;
+    position: absolute;
+    top: 425px;
+    left: 110px;
+}
+
+.jh{
+    visibility: visible;
+    position: absolute;
+    top: 524px;
+    left: 371px;
+}
+
+.pg{
+    visibility: visible;
+    position: absolute;
+    top: 671px;
+    left: 221px;
+    font-size: 29px;
+}
+
+.kl{
+    visibility: visible;
+    position: absolute;
+    top: 709px;
+    left: 261px;
+    font-size: 29px;
+}
+
+.H{
+    visibility: visible;
+    position: absolute;
+    top: 745px;
+    left: 263px;
+    font-size: 29px;
+}
+
+.Y{
+    visibility: visible;
+    position: absolute;
+    top: 779px;
+    left: 232px;
+    font-size: 29px;
+}
+
+.btn button{
+    position: absolute;
+    top: 946px;
+    left: 356px;
+    visibility: visible;
+}
+
+.fz img{
+    position: absolute;
+    left: 2px;
+}
+
+.p7{
+    position: absolute;
+    visibility: visible;
+    top: 2481px;
+    left: 20px;
+    font-size:45px ;
+}
+
+
+
+  }
+
+
+  @media only screen and (max-width: 660px) {
+
+    .o{
+        visibility: visible;
+        font-size: 85px;
+    }
+      
+.hp{
+    visibility: visible;
+    font-size: 85px;
+}
+
+.jh{
+    visibility: visible;
+    font-size: 85px;
+}
+
+.pg{
+    visibility: visible;
+    font-size: 27px;
+}
+
+.kl{
+    visibility: visible;
+    font-size: 27px;
+}
+
+.H{
+    visibility: visible;
+    font-size: 27px;
+}
+
+.Y{
+    visibility: visible;
+    font-size: 27px;
+}
+
+.p7{
+    visibility: visible;
+    font-size: 41px;
+}
+
+
+  }
+  
+
+  @media only screen and (max-Width: 629px){
+      .o{
+          visibility: visible;
+          font-size: 84px;
+      }
+
+.hp{
+    visibility: visible;
+          font-size: 84px;
+}
+
+.jh{
+    visibility: visible;
+          font-size: 84px;
+}
+
+
+.pg{
+    visibility: visible;
+    font-size: 26px;
+}
+
+.kl{
+    visibility: visible;
+    font-size: 26px;
+}
+
+.H{
+    visibility: visible;
+    font-size: 26px;
+}
+
+.Y{
+    visibility: visible;
+    font-size: 26px;
+}
+
+.boxu h2{
+    visibility: visible;
+    font-size: 60px;
+}
+
+.boxy h2{
+    visibility: visible;
+    font-size: 60px;
+}
+
+.boxi h2{
+    visibility: visible;
+    font-size: 60px;
+}
+
+.p7{
+    visibility: visible;
+    font-size: 40px;
+}
+
+  }
+
+  @media only screen and (max-Width: 623px){
+    .o{
+        visibility: visible;
+        font-size: 83px;
+    }
+
+.hp{
+  visibility: visible;
+        font-size: 83px;
+}
+
+.jh{
+  visibility: visible;
+        font-size: 83px;
+}
+  }
+
+
+  @media only screen and (max-Width: 609px){
+    .o{
+        visibility: visible;
+        font-size: 81px;
+    }
+
+.hp{
+  visibility: visible;
+        font-size: 81px;
+}
+
+.jh{
+  visibility: visible;
+        font-size: 81px;
+}
+
+.pg{
+    visibility: visible;
+    font-size: 25px;
+}
+
+.kl{
+    visibility: visible;
+    font-size: 25px;
+}
+
+.H{
+    visibility: visible;
+    font-size: 25px;
+}
+
+.Y{
+    visibility: visible;
+    font-size: 25px;
+}
+
+
+.boxu h2{
+    visibility: visible;
+    font-size: 58px;
+}
+
+.boxy h2{
+    visibility: visible;
+    font-size: 58px;
+}
+
+.boxi h2{
+    visibility: visible;
+    font-size: 58px;
+}
+
+.p7{
+    visibility: visible;
+    font-size: 39px;
+}
+
+
+  }
+
+  @media only screen and (max-Width: 605px){
+    .o{
+        visibility: visible;
+        font-size: 80px;
+    }
+
+.hp{
+  visibility: visible;
+        font-size: 80px;
+}
+
+.jh{
+  visibility: visible;
+        font-size: 80px;
+}
+  }
+
+  @media only screen and (max-Width: 598px){
+    .o{
+        visibility: visible;
+        font-size: 79px;
+    }
+
+.hp{
+  visibility: visible;
+        font-size: 79px;
+}
+
+.jh{
+  visibility: visible;
+        font-size: 79px;
+}
+
+
+.boxu h2{
+    visibility: visible;
+    font-size: 57px;
+}
+
+.boxy h2{
+    visibility: visible;
+    font-size: 57px;
+}
+
+.boxi h2{
+    visibility: visible;
+    font-size: 57px;
+}
+
+.p7{
+    visibility: visible;
+    font-size: 38px;
+}
+
+  }
+
+
+  @media only screen and (max-Width: 592px){
+      .o{
+          visibility: visible;
+          font-size: 78px;
+      }
+      .hp{
+        visibility: visible;
+        font-size: 78px;
+      }
+      .jh{
+        visibility: visible;
+        font-size: 78px;
+      }
+
+      .pg{
+        visibility: visible;
+        font-size: 24px;
+    }
+    
+    .kl{
+        visibility: visible;
+        font-size: 24px;
+    }
+    
+    .H{
+        visibility: visible;
+        font-size: 24px;
+    }
+    
+    .Y{
+        visibility: visible;
+        font-size: 24px;
+    }
+    
+    
+    .boxu h2{
+        visibility: visible;
+        font-size: 57px;
+    }
+    
+    .boxy h2{
+        visibility: visible;
+        font-size: 57px;
+    }
+    
+    .boxi h2{
+        visibility: visible;
+        font-size: 57px;
+    }
+    
+    .p7{
+        visibility: visible;
+        font-size: 38px;
+    }
+
+  }
+
+@media only screen and (max-width: 586px){
+    .o{
+        visibility: visible;
+        font-size: 77px;
+    }
+    .hp{
+        visibility: visible;
+        font-size: 77px;
+    }
+.jh{
+    visibility: visible;
+    font-size: 77px;
+}
+
+}
+
+@media only screen and (max-width: 580px){
+    .o{
+        visibility: visible;
+        font-size: 76px;
+    }
+    .hp{
+        visibility: visible;
+        font-size: 76px;
+    }
+.jh{
+    visibility: visible;
+    font-size: 76px;
+}
+
+.pg{
+    visibility: visible;
+    font-size: 23px;
+}
+
+.kl{
+    visibility: visible;
+    font-size: 23px;
+}
+
+.H{
+    visibility: visible;
+    font-size: 23px;
+}
+
+.Y{
+    visibility: visible;
+    font-size: 23px;
+}
+
+
+.boxu h2{
+    visibility: visible;
+    font-size: 56px;
+}
+
+.boxy h2{
+    visibility: visible;
+    font-size: 56px;
+}
+
+.boxi h2{
+    visibility: visible;
+    font-size: 56px;
+}
+
+.p7{
+    visibility: visible;
+    font-size: 37px;
+}
+
+
+}
+
+@media only screen and (max-width: 574px){
+    .o{
+        visibility: visible;
+        font-size: 75px;
+    }
+    .hp{
+        visibility: visible;
+        font-size: 75px;
+    }
+.jh{
+    visibility: visible;
+    font-size: 75px;
+}
+}
+
+
+@media only screen and (max-width: 569px){
+    .o{
+        visibility: visible;
+        font-size: 74px;
+    }
+    .hp{
+        visibility: visible;
+        font-size: 74px;
+    }
+.jh{
+    visibility: visible;
+    font-size: 74px;
+}
+}
+
+@media only screen and (max-width: 562px){
+    .o{
+        visibility: visible;
+        font-size: 73px;
+    }
+    .hp{
+        visibility: visible;
+        font-size: 73px;
+    }
+.jh{
+    visibility: visible;
+    font-size: 73px;
+}
+
+.pg{
+    visibility: visible;
+    font-size: 22px;
+}
+
+.kl{
+    visibility: visible;
+    font-size: 22px;
+}
+
+.H{
+    visibility: visible;
+    font-size: 22px;
+}
+
+.Y{
+    visibility: visible;
+    font-size: 22px;
+}
+
+
+.boxu h2{
+    visibility: visible;
+    font-size: 55px;
+}
+
+.boxy h2{
+    visibility: visible;
+    font-size: 55px;
+}
+
+.boxi h2{
+    visibility: visible;
+    font-size: 55px;
+}
+
+.p7{
+    visibility: visible;
+    font-size: 36px;
+}
+
+}
+
+@media only screen and (max-width: 556px){
+    .o{
+        visibility: visible;
+        font-size: 72px;
+    }
+    .hp{
+        visibility: visible;
+        font-size: 72px;
+    }
+.jh{
+    visibility: visible;
+    font-size: 72px;
+}
+    
+}
+
+
+@media only screen and (max-width: 549px){
+    .o{
+        visibility: visible;
+        font-size: 70px;
+    }
+    .hp{
+        visibility: visible;
+        font-size: 70px;
+    }
+.jh{
+    visibility: visible;
+    font-size: 70px;
+}
+
+.pg{
+    visibility: visible;
+    font-size: 20px;
+}
+
+.kl{
+    visibility: visible;
+    font-size: 20px;
+}
+
+.H{
+    visibility: visible;
+    font-size: 20px;
+}
+
+.Y{
+    visibility: visible;
+    font-size: 20px;
+}
+
+
+.boxu h2{
+    visibility: visible;
+    font-size: 54px;
+}
+
+.boxy h2{
+    visibility: visible;
+    font-size: 54px;
+}
+
+.boxi h2{
+    visibility: visible;
+    font-size: 54px;
+}
+
+.p7{
+    visibility: visible;
+    font-size: 34px;
+}
+
+}
+
+@media only screen and (max-width: 532px){
+    .o{
+        visibility: visible;
+        font-size: 69px;
+    }
+    .hp{
+        visibility: visible;
+        font-size: 69px;
+    }
+.jh{
+    visibility: visible;
+    font-size: 69px;
+}
+
+
+.boxu h2{
+    visibility: visible;
+    font-size: 53px;
+}
+
+.boxy h2{
+    visibility: visible;
+    font-size: 53px;
+}
+
+.boxi h2{
+    visibility: visible;
+    font-size: 53px;
+}
+
+}
+@media only screen and (max-width: 532px){
+    .o{
+        visibility: visible;
+        font-size: 68px;
+    }
+    .hp{
+        visibility: visible;
+        font-size: 68px;
+    }
+.jh{
+    visibility: visible;
+    font-size: 68px;
+}
+}
+
+
+
+    @media only screen and (max-width: 521px){
+        .pg{
+            visibility: visible;
+            font-size: 19px;
+        }
+        
+        .kl{
+            visibility: visible;
+            font-size: 19px;
+        }
+        
+        .H{
+            visibility: visible;
+            font-size: 19px;
+        }
+        
+        .Y{
+            visibility: visible;
+            font-size: 19px;
+        }
+        
+        
+        .boxu h2{
+            visibility: visible;
+            font-size: 52px;
+        }
+        
+        .boxy h2{
+            visibility: visible;
+            font-size: 52px;
+        }
+        
+        .boxi h2{
+            visibility: visible;
+            font-size: 52px;
+        }
+        
+        .p7{
+            visibility: visible;
+            font-size: 33px;
+        }
+        
+        }
+        
+        
+
+
+
+
+@media only screen and (max-width: 521px){
+    .pg{
+        visibility: visible;
+        font-size: 19px;
+    }
+    
+    .kl{
+        visibility: visible;
+        font-size: 19px;
+    }
+    
+    .H{
+        visibility: visible;
+        font-size: 19px;
+    }
+    
+    .Y{
+        visibility: visible;
+        font-size: 19px;
+    }
+    
+    
+    .boxu h2{
+        visibility: visible;
+        font-size: 52px;
+    }
+    
+    .boxy h2{
+        visibility: visible;
+        font-size: 52px;
+    }
+    
+    .boxi h2{
+        visibility: visible;
+        font-size: 52px;
+    }
+    
+    .p7{
+        visibility: visible;
+        font-size: 33px;
+    }
+    
+    }
+    
+    
+
+
+    @media only screen and (max-width: 509px){
+
+        .o{
+            visibility: visible;
+            font-size: 65px;
+        }
+        .hp{
+            visibility: visible;
+            font-size: 65px;
+        }
+    .jh{
+        visibility: visible;
+        font-size: 65px;
+    }
+
+
+        .pg{
+            visibility: visible;
+            font-size: 18px;
+        }
+        
+        .kl{
+            visibility: visible;
+            font-size: 18px;
+        }
+        
+        .H{
+            visibility: visible;
+            font-size: 18px;
+        }
+        
+        .Y{
+            visibility: visible;
+            font-size: 18px;
+        }
+        
+        
+        .boxu h2{
+            visibility: visible;
+            font-size: 50px;
+        }
+        
+        .boxy h2{
+            visibility: visible;
+            font-size: 50px;
+        }
+        
+        .boxi h2{
+            visibility: visible;
+            font-size: 50px;
+        }
+        
+        .p7{
+            visibility: visible;
+            font-size: 32px;
+        }
+        
+        }
+        
+        
+        @media only screen and (max-width: 507px){
+
+            .o{
+                visibility: visible;
+                font-size: 63px;
+            }
+            .hp{
+                visibility: visible;
+                font-size: 63px;
+            }
+        .jh{
+            visibility: visible;
+            font-size: 63px;
+        }
+        }
+
+        @media only screen and (max-width: 491px){
+
+            .o{
+                visibility: visible;
+                font-size: 60px;
+            }
+            .hp{
+                visibility: visible;
+                font-size: 60px;
+            }
+        .jh{
+            visibility: visible;
+            font-size: 60px;
+        }
+
+        .pg{
+            visibility: visible;
+            font-size: 17px;
+        }
+        
+        .kl{
+            visibility: visible;
+            font-size: 17px;
+        }
+        
+        .H{
+            visibility: visible;
+            font-size: 17px;
+        }
+        
+        .Y{
+            visibility: visible;
+            font-size: 17px;
+        }
+        
+        
+        .boxu h2{
+            visibility: visible;
+            font-size: 49px;
+        }
+        
+        .boxy h2{
+            visibility: visible;
+            font-size: 49px;
+        }
+        
+        .boxi h2{
+            visibility: visible;
+            font-size: 49px;
+        }
+        
+        .p7{
+            visibility: visible;
+            font-size: 31px;
+        }
+        
+
+        }
+
+
+
+        @media only screen and (max-width: 413px){
+
+            .o{
+                visibility: visible;
+                font-size: 45px;
+            }
+            .hp{
+                visibility: visible;
+                font-size: 45px;
+            }
+                .jh{
+                    visibility: visible;
+                    font-size: 45px;
+                }
+
+        .pg{
+            visibility: visible;
+            font-size: 11px;
+        }
+        
+        .kl{
+            visibility: visible;
+            font-size: 11px;
+        }
+        
+        .H{
+            visibility: visible;
+            font-size: 11px;
+        }
+        
+        .Y{
+            visibility: visible;
+            font-size: 11px;
+        }
+        
+        
+        .boxu h2{
+            visibility: visible;
+            font-size: 49px;
+        }
+        
+        .boxy h2{
+            visibility: visible;
+            font-size: 49px;
+        }
+        
+        .boxi h2{
+            visibility: visible;
+            font-size: 49px;
+        }
+        
+        .p7{
+            visibility: visible;
+            font-size: 31px;
+        }
+        
+
+        }
+
